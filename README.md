@@ -19,11 +19,11 @@ Jupyter notebooks comprises the code in below stages:
     2. Initial Data Analysis
     3. Exploratory Data Analysis
     4. Models Evaluation
-        4.1 Naive Bayes
-        4.2 Random Forest
-		4.3 Logistic Regression
-        4.4 Gradient Boosting Classifier
-        4.5 Random Forest
+    	4.1 Naive Bayes
+	4.2 Random Forest
+	4.3 Logistic Regression
+	4.4 Gradient Boosting Classifier
+	4.5 Random Forest
      
 **_Autism_Child_data_in_excel.xlsx_** : This spreadsheet contains all the three ASD datasets i.e. Children, Adolescents and Adults.
  
