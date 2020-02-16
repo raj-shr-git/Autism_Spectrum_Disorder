@@ -21,7 +21,7 @@ Jupyter notebooks comprises the code in below stages:
     4. Models Evaluation
         4.1 Naive Bayes
         4.2 Random Forest
-		4.3 Logistic Regression
+	4.3 Logistic Regression
         4.4 Gradient Boosting Classifier
         4.5 Random Forest
      
